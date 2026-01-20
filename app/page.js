@@ -1,5 +1,5 @@
 'use client'
-import MeetingNotesGenerator from '@/components/MeetingNotesGenerator'
+import MeetingNotesGenerator from './components/MeetingNotesGenerator'
 export default function Home() {
   return <main><MeetingNotesGenerator /></main>
 }
